@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Phyo Thwe Thwe Kyaw 👋
 
-<!--
-**Phyothwethwekyaw/Phyothwethwekyaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ICT Student
 
-Here are some ideas to get you started:
+💻 Passionate about Software Testing, Web Development, and Data Analytics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Software Testing
+- GitHub Workflow
+- Frontend Development
+
+## 🛠️ Skills
+- HTML
+- CSS
+- JavaScript
+- Python
+- Java
+- SQL
+- Git & GitHub
+
+## 🚀 Projects
+- Telco Customer Churn Prediction
+- AQI Prediction Using Regression Models
+- Paris Grocery E-commerce Application
+- Social Media Impact on Student Behaviour (ABM)
+
+## 📫 Contact
+- LinkedIn: 
+- Email: phyothwethwekyaw404@gmail.com
