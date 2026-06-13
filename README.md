@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phyo Thwe Thwe Kyaw</h1>
-<h3 align="center">ICT Student | Software Testing Enthusiast | Aspiring Software Engineer</h3>
+<h3 align="center">ICT Student | Aspiring Software Engineer</h3>
 
 ---
 
@@ -8,7 +8,6 @@
 🎓 Information and Communication Technology Student
 
 🔍 Interested in:
-- Software Testing & Quality Assurance
 - Web Development
 - Data Analytics & Machine Learning
 
@@ -41,24 +40,8 @@
 
 ---
 
-## 🚀 Featured Projects
-
-
-
----
-
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact"/>
-</p>
-
----
-
 ## 🎯 2026 Goals
 
-- Gain practical experience in Software Testing
 - Contribute to Open Source Projects
 - Strengthen Frontend Development Skills
 - Build a Professional Project Portfolio
@@ -68,7 +51,8 @@
 
 ## 📫 Connect With Me
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/phyothwethwekyaw/
+
 Email: phyothwethwekyaw404@gmail.com
 
 ---
