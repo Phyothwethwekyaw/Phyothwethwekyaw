@@ -2,25 +2,6 @@
 <h3 align="center">ICT Student | Aspiring Software Engineer</h3>
 
 ---
-
-## 👩‍💻 About Me
-
-🎓 Information and Communication Technology Student
-
-🔍 Interested in:
-- Web Development
-- Data Analytics & Machine Learning
-
-🌱 Currently learning:
-- Software Testing Methodologies
-- Git & GitHub Workflows
-- Frontend Development
-- Test Case Design
-
-🚀 Passionate about building reliable software and continuously improving technical skills through academic and personal projects.
-
----
-
 ## 🛠️ Tech Stack
 
 ### Programming Languages
@@ -37,23 +18,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 🎯 2026 Goals
-
-- Contribute to Open Source Projects
-- Strengthen Frontend Development Skills
-- Build a Professional Project Portfolio
-- Obtain Industry Certifications
-
----
-
-## 📫 Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/phyothwethwekyaw/
-
-Email: phyothwethwekyaw404@gmail.com
 
 ---
 
